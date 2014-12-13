@@ -1,0 +1,24 @@
+PODS:
+  - CocoaSecurity (1.2.4)
+  - ReactiveCocoa (2.3.1):
+    - ReactiveCocoa/UI (= 2.3.1)
+  - ReactiveCocoa/Core (2.3.1):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.3.1)
+  - ReactiveCocoa/UI (2.3.1):
+    - ReactiveCocoa/Core
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+
+DEPENDENCIES:
+  - CocoaSecurity (~> 1.2.4)
+  - ReactiveCocoa (~> 2.3.1)
+  - SDWebImage (~> 3.7.1)
+
+SPEC CHECKSUMS:
+  CocoaSecurity: 7ce1b967863d4e96dcffdbad17671117900e6c6e
+  ReactiveCocoa: dca75777b9d18990c8714a3a6f2149f29b4d1462
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+
+COCOAPODS: 0.35.0
